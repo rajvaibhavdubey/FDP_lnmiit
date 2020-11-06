@@ -596,10 +596,14 @@
 
 	.banner-content .banner-title,
 	.banner-content .classic-style .banner-title{
-		font-size: 36px;
+		font-size: 20px;
 		line-height: 48px;
 	}
-
+	.banner-content .banner-title2,
+	.banner-content .classic-style .banner-title2{
+		font-size: 26px;
+		line-height: 48px;
+	}
 	.banner-content .banner-desc{
 		font-size: 18px;
 	}
