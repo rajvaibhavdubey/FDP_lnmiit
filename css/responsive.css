@@ -596,7 +596,7 @@
 
 	.banner-content .banner-title,
 	.banner-content .classic-style .banner-title{
-		font-size: 20px;
+		font-size: 50px;
 		line-height: 48px;
 	}
 	.banner-content .banner-title2,
@@ -778,7 +778,7 @@
 	/* Page title */
 
 	.page-banner-title h2{
-		font-size: 30px;
+		font-size: 50px;
 	}
 
 	/* Sidebar */
